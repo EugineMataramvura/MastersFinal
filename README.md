@@ -42,6 +42,10 @@ Run `CAT_BOND_PRICING.R` to simulate catastrophe bond prices based on the output
 
 Data is sourced from the National Oceanic and Atmospheric Administration (NOAA) available [here](https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/).
 
+## Results
+
+![Tornado Damage Evolution](./tornado_damage_evolution_colored.gif)
+
 ## Contributing
 
 We welcome contributions from the community. Please fork the repository and submit a pull request with your suggested changes.
