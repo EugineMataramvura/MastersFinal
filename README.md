@@ -1,4 +1,4 @@
-# Catastrophe Bond Pricing Project
+# Catastrophe Bond Pricing
 
 ## Project Overview
 
